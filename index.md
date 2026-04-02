@@ -45,7 +45,7 @@ Die rechtlichen Grundlagen des Datenschutzes finden sich in der europäischen Da
 * Es werden keine Analyse-Tools (Analytics), Tracking-SDKs, Werbe-Netzwerke oder sonstige Drittanbieter-Dienste innerhalb der App verwendet, die Nutzerverhalten aufzeichnen.
 
 ### 2.3. Lokale Datenspeicherung (TDDDG-Konformität)
-Um die Funktionalität der App zu gewährleisten, EliteDrinking speichert bestimmte Daten **ausschließlich lokal auf dem Endgerät des Nutzers**. Diese Daten verlassen das Gerät zu keinem Zeitpunkt durch die App. Das Speichern dieser Daten ist zur Bereitstellung des vom Nutzer ausdrücklich gewünschten Dienstes zwingend erforderlich (§ 25 Abs. 2 Nr. 2 TDDDG).
+Um die Funktionalität der App zu gewährleisten, speichert EliteDrinking bestimmte Daten **ausschließlich lokal auf dem Endgerät des Nutzers**. Diese Daten verlassen das Gerät zu keinem Zeitpunkt durch die App. Das Speichern dieser Daten ist zur Bereitstellung des vom Nutzer ausdrücklich gewünschten Dienstes zwingend erforderlich (§ 25 Abs. 2 Nr. 2 TDDDG).
 Gespeichert werden lokal:
 * Eingegebene Spielernamen und Geschlecht
 * Spielstatistiken (gespielte Spiele, verteilte Getränke, Siege)
@@ -64,10 +64,17 @@ Die App fragt nach bestimmten Berechtigungen (Art. 6 Abs. 1 lit. a DSGVO, Einwil
 ### 2.5. Sound-Effekte
 Alle Sound-Effekte sind lokal in den Installationsdateien der App hinterlegt. Es werden keine Audiodaten aus dem Internet nachgeladen. Die App greift zu keinem Zeitpunkt auf das Mikrofon des Geräts zu.
 
-### 2.6. Datenverarbeitung durch App Stores (Apple / Google)
+### 2.6. Externe Links (Spotify)
+Bestimmte Minispiele (z. B. Song Roulette) bieten die Möglichkeit, über einen Button die App Spotify zu öffnen, um einen Song abzuspielen. Dabei wird lediglich ein Suchlink (z. B. `https://open.spotify.com/search/...`) über einen Android Intent geöffnet.
+
+EliteDrinking überträgt dabei keine Nutzerdaten an Spotify. Es wird kein Spotify-SDK, keine Spotify-API und kein Spotify-Login verwendet. Die Nutzung von Spotify unterliegt den Datenschutzbestimmungen von Spotify (Spotify AB, Stockholm, Schweden).
+
+Die Songtitel und Interpreten in der App sind rein informativ und dienen dem Spielablauf. Es werden keine urheberrechtlich geschützten Inhalte (Musik, Texte, Grafiken) innerhalb der App wiedergegeben.
+
+### 2.7. Datenverarbeitung durch App Stores (Apple / Google)
 Bitte beachten Sie, dass beim Download der App aus dem Google Play Store oder dem Apple App Store Daten durch den jeweiligen Store-Betreiber verarbeitet werden. Darauf hat der Entwickler keinen Einfluss. Der jeweilige Store-Betreiber erhebt unter anderem Daten zum Download, zur IP-Adresse und zum verwendeten Gerät. Verantwortlich hierfür ist ausschließlich der jeweilige Store-Betreiber (Google Ireland Limited bzw. Apple Distribution International).
 
-### 2.7. Deine Rechte als Nutzer
+### 2.8. Deine Rechte als Nutzer
 Da ich (der Entwickler) **keine** personenbezogenen Daten von dir speichere oder besitze, entfallen die üblichen Anfragen auf Auskunft, Löschung oder Übertragbarkeit bei mir (da ich nichts auskunften oder löschen kann). 
 Du hast jedoch die volle Kontrolle über deine Daten auf deinem Gerät. Du kannst jederzeit alle gespeicherten Daten unwiderruflich vernichten durch:
 1. Den Button "Alle Daten löschen" in den Datenschutz-Einstellungen der App.
@@ -75,7 +82,5 @@ Du hast jedoch die volle Kontrolle über deine Daten auf deinem Gerät. Du kanns
 3. Die Löschung der App-Daten über die Android-Systemeinstellungen (Einstellungen → Apps → EliteDrinking → Speicher → Daten löschen).
 4. Die vollständige Deinstallation der App.
 
-### 2.8. Änderungen dieser Datenschutzerklärung
+### 2.9. Änderungen dieser Datenschutzerklärung
 Ich behalte mir vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen der App-Funktionen datenschutzrechtlich abzubilden. Für Ihren erneuten Besuch in der App gilt dann die neue Datenschutzerklärung.
-
-  *Stand: April 2026*
