@@ -13,7 +13,7 @@ Kapellener Str. 32
 
 **Kontakt:**
 Telefon: +49 157 30633922
-E-Mail: maxcerfontaine@gmail.com
+E-Mail: elitedrinkingapp@gmail.com
 
 **EU-Streitschlichtung:**
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/. Meine E-Mail-Adresse finden Sie oben im Impressum. Ich bin nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
