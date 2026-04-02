@@ -1,110 +1,81 @@
-● ## Datenschutzerklärung – EliteDrinking
+# Datenschutzerklärung und Impressum – EliteDrinking
 
-  ### Verantwortlicher
-  Max Cerfontaine
-  Kapellener Str. 32
-  47661 Issum
-  E-Mail: maxcerfontaine@gmail.com
+Stand: April 2026
 
-  ### Datenerhebung und Verarbeitung
-  EliteDrinking erhebt, speichert oder verarbeitet keine personenbezogenen Daten. Es werden keine
-  Daten an Server, Dritte oder externe Dienste übermittelt. Die App benötigt keine Internetverbindung.
+---
 
-  ### Lokale Datenspeicherung
-  Folgende Daten werden ausschließlich lokal auf deinem Gerät in einer lokalen Datenbank gespeichert
-  und verlassen zu keinem Zeitpunkt dein Gerät:
-  - Spielernamen und Geschlecht
-  - Spielstatistiken (gespielte Spiele, Getränke, Siege)
-  - Freigeschaltete Achievements
-  - Selbst erstellte Karten
-  - App-Einstellungen (Sprache, Trink-Limit, Onboarding-Status)
+## 1. IMPRESSUM
 
-  ### Keine Analyse- oder Tracking-Tools
-  Die App verwendet keine Analyse-Tools, Cookies, Tracking-Mechanismen, Werbung oder sonstige Dienste,
-   die Nutzerdaten erfassen.
+**Angaben gemäß § 5 TMG sowie Verantwortlicher im Sinne des § 18 Abs. 2 MStV:**
+Max Cerfontaine
+Kapellener Str. 32
+47661 Issum
 
-  ### Keine Weitergabe an Dritte
-  Es findet keine Datenübertragung an externe Dienste oder Dritte statt. Die QR-Code-Funktion zum
-  Teilen von Kartendecks funktioniert ausschließlich lokal zwischen Geräten über die Kamera.
+**Kontakt:**
+Telefon: +49 157 30633922
+E-Mail: maxcerfontaine@gmail.com
 
-  ### Kamera-Berechtigung
-  Die App fragt optional nach Kamerazugriff für folgende Funktionen:
-  - QR-Code scannen (Import von Kartendecks)
-  - Gruppenfoto erstellen
+**EU-Streitschlichtung:**
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/. Meine E-Mail-Adresse finden Sie oben im Impressum. Ich bin nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
-  Aufgenommene Fotos werden nur lokal auf dem Gerät gespeichert. Die Kamera-Berechtigung ist nicht
-  zwingend erforderlich — die App funktioniert auch ohne.
+### Haftungsausschluss (Disclaimer)
 
-  Beim Teilen eines Gruppenfotos wird die Android-Teilen-Funktion verwendet. Welche App die Daten
-  empfängt, entscheidest du selbst.
+**Haftung für Inhalte:**
+Als Diensteanbieter bin ich gemäß § 7 Abs.1 TMG für eigene Inhalte in dieser App nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG bin ich jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
 
-  ### Vibration
-  Die App nutzt die Vibrationsfunktion (Berechtigung: VIBRATE) für haptisches Feedback bei
-  Interaktionen und Spielereignissen. Dies dient ausschließlich der Nutzererfahrung. Es werden dabei
-  keine Daten erhoben oder gespeichert.
+**Haftungsausschluss für Alkoholkonsum und gesundheitliche Schäden:**
+Diese App richtet sich AUSSCHLIESSLICH an volljährige Personen (18+). Die Nutzung der App und die Teilnahme am Spiel erfolgen vollständig auf eigene Gefahr und Verantwortung. Der Entwickler (Max Cerfontaine) ruft ausdrücklich nicht zu übermäßigem, unkontrolliertem oder gefährlichem Alkoholkonsum (z.B. „Binge-Drinking“) auf. Es wird keine Haftung für gesundheitliche, materielle oder immaterielle Schäden übernommen, die durch die Nutzung dieser App, den Konsum von Alkohol oder das Verhalten der Spieler während oder nach dem Spiel entstehen. Jeder Spieler ist selbst dafür verantwortlich, seine Grenzen zu kennen und einzuhalten. Bitte trinkt verantwortungsvoll. Don't drink and drive.
 
-  Die Vibration kann in den App-Einstellungen jederzeit deaktiviert werden.
+**Urheberrecht:**
+Die durch den Betreiber erstellten Inhalte, Werke und Grafiken in dieser App unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des Erstellers.
 
-  ### Sound-Effekte
-  Die App spielt lokale Sound-Effekte für Spielereignisse und UI-Interaktionen ab. Es wird kein
-  Mikrofon verwendet und keine Audioaufnahme erstellt. Alle Sounds sind in der App enthalten und
-  werden nicht aus dem Internet geladen.
+---
 
-  Die Sounds können in den App-Einstellungen jederzeit deaktiviert werden.
+## 2. DATENSCHUTZERKLÄRUNG
 
-  ### Teilen-Funktion
-  Die App bietet die Möglichkeit, Spielergebnisse als Text und Gruppenfotos über die
-  Android-Teilen-Funktion (Share Intent) zu teilen. Die App selbst sendet dabei keine Daten — du
-  wählst selbst, an welche App (z. B. WhatsApp, Instagram) die Inhalte weitergeleitet werden.
+### 2.1. Grundlegendes
+Die Privatsphäre der Nutzer hat für mich höchste Priorität. Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und die Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter (Max Cerfontaine, Kontaktdaten siehe Impressum) in der App „EliteDrinking“ auf. 
 
-  ### Altersverifizierung
-  Beim ersten Start der App wird eine Altersabfrage angezeigt (18+). Das Ergebnis wird ausschließlich
-  lokal gespeichert, um die Abfrage nicht bei jedem Start zu wiederholen. Es findet keine externe
-  Überprüfung des Alters statt.
+Die rechtlichen Grundlagen des Datenschutzes finden sich in der europäischen Datenschutz-Grundverordnung (DSGVO), dem Bundesdatenschutzgesetz (BDSG) sowie dem Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG).
 
-  ### Deine Rechte
-  Da keine personenbezogenen Daten erhoben werden, entfallen in der Regel Ansprüche auf Auskunft,
-  Löschung und Berichtigung gemäß DSGVO.
+### 2.2. Datenerhebung und Verarbeitung durch die App
+**EliteDrinking ist eine reine Offline-App.** Ich, der Entwickler, erhebe, speichere, verarbeite oder übertrage zu keinem Zeitpunkt personenbezogene Daten an mich oder an externe Server.
+* Es gibt keinen Login oder Account-Zwang.
+* Es existieren keine Server, auf die Daten hochgeladen werden.
+* Es werden keine Analyse-Tools (Analytics), Tracking-SDKs, Werbe-Netzwerke oder sonstige Drittanbieter-Dienste innerhalb der App verwendet, die Nutzerverhalten aufzeichnen.
 
-  Du kannst dennoch jederzeit alle lokal gespeicherten Daten löschen:
-  - In der App unter Datenschutz → "Alle Daten löschen"
-  - Einzelne Spieler in der Spielerverwaltung entfernen
-  - Achievements im Achievement-Screen zurücksetzen
-  - Android-Einstellungen → Apps → EliteDrinking → Speicher → Daten löschen
-  - App deinstallieren
+### 2.3. Lokale Datenspeicherung (TDDDG-Konformität)
+Um die Funktionalität der App zu gewährleisten, EliteDrinking speichert bestimmte Daten **ausschließlich lokal auf dem Endgerät des Nutzers**. Diese Daten verlassen das Gerät zu keinem Zeitpunkt durch die App. Das Speichern dieser Daten ist zur Bereitstellung des vom Nutzer ausdrücklich gewünschten Dienstes zwingend erforderlich (§ 25 Abs. 2 Nr. 2 TDDDG).
+Gespeichert werden lokal:
+* Eingegebene Spielernamen und Geschlecht
+* Spielstatistiken (gespielte Spiele, verteilte Getränke, Siege)
+* Freigeschaltete Achievements
+* Vom Nutzer selbst erstellte Spielkarten
+* App-Einstellungen (gewählte Sprache, Trink-Limit, Onboarding-Status)
+* Status der Altersverifizierung (18+ Bestätigung), um die Abfrage beim nächsten Start zu überspringen (ohne externe Überprüfung).
 
-  ### Änderungen
-  Diese Datenschutzerklärung kann im Rahmen von App-Updates angepasst werden.
+### 2.4. Zugriff auf Gerätefunktionen (Berechtigungen)
+Die App fragt nach bestimmten Berechtigungen (Art. 6 Abs. 1 lit. a DSGVO, Einwilligung des Nutzers), um Kernfunktionen anzubieten:
 
-  ### Kontakt
-  Bei Fragen zum Datenschutz:
-  Max Cerfontaine
-  maxcerfontaine@gmail.com
+* **Kamera:** Wird (optional) benötigt, um QR-Codes zum Importieren lokaler Kartendecks zu scannen oder um ein Gruppenfoto als Spielerinnerung aufzunehmen. Alle Bilder und Kamera-Daten werden nur lokal im Speicher des Geräts verarbeitet und verbleiben dort. Eine Übertragung ins Internet durch die App findet nicht statt.
+* **Vibration (Haptisches Feedback):** Die Berechtigung `VIBRATE` wird ausschließlich für das Nutzererlebnis bei Interaktionen im Spiel genutzt. Es werden hierbei keine Daten erhoben.
+* **Teilen-Funktion (Share Intent):** Wenn Nutzer Spielergebnisse oder Gruppenfotos teilen möchten, öffnet die App lediglich den nativen "Teilen"-Dialog des Betriebssystems (Android Share Intent). Der Nutzer entscheidet selbst, an welche Dritt-App (z. B. Messenger) die Daten lokal übergeben werden. EliteDrinking sendet die Daten nicht selbst über das Internet.
 
-  *Stand: April 2026*
+### 2.5. Sound-Effekte
+Alle Sound-Effekte sind lokal in den Installationsdateien der App hinterlegt. Es werden keine Audiodaten aus dem Internet nachgeladen. Die App greift zu keinem Zeitpunkt auf das Mikrofon des Geräts zu.
 
-  ---
+### 2.6. Datenverarbeitung durch App Stores (Apple / Google)
+Bitte beachten Sie, dass beim Download der App aus dem Google Play Store oder dem Apple App Store Daten durch den jeweiligen Store-Betreiber verarbeitet werden. Darauf hat der Entwickler keinen Einfluss. Der jeweilige Store-Betreiber erhebt unter anderem Daten zum Download, zur IP-Adresse und zum verwendeten Gerät. Verantwortlich hierfür ist ausschließlich der jeweilige Store-Betreiber (Google Ireland Limited bzw. Apple Distribution International).
 
-  ## Impressum
+### 2.7. Deine Rechte als Nutzer
+Da ich (der Entwickler) **keine** personenbezogenen Daten von dir speichere oder besitze, entfallen die üblichen Anfragen auf Auskunft, Löschung oder Übertragbarkeit bei mir (da ich nichts auskunften oder löschen kann). 
+Du hast jedoch die volle Kontrolle über deine Daten auf deinem Gerät. Du kannst jederzeit alle gespeicherten Daten unwiderruflich vernichten durch:
+1. Den Button "Alle Daten löschen" in den Datenschutz-Einstellungen der App.
+2. Das Löschen einzelner Spieler oder Achievements in den entsprechenden Menüs.
+3. Die Löschung der App-Daten über die Android-Systemeinstellungen (Einstellungen → Apps → EliteDrinking → Speicher → Daten löschen).
+4. Die vollständige Deinstallation der App.
 
-  ### Angaben gemäß § 5 TMG
-  Max Cerfontaine
-  Kapellener Str. 32
-  47661 Issum
-
-  ### Kontakt
-  E-Mail: maxcerfontaine@gmail.com
-
-  ### Verantwortlich für den Inhalt
-  Max Cerfontaine
-
-  ### Haftungsausschluss
-  Die Inhalte dieser App wurden mit größtmöglicher Sorgfalt erstellt. Für die Richtigkeit,
-  Vollständigkeit und Aktualität der Inhalte wird jedoch keine Gewähr übernommen.
-
-  ### Altersfreigabe
-  Diese App richtet sich ausschließlich an Personen ab 18 Jahren. Die Nutzung durch Minderjährige ist
-  nicht gestattet. Der Konsum von Alkohol erfolgt auf eigene Verantwortung. Bitte trinkt
-  verantwortungsvoll.
+### 2.8. Änderungen dieser Datenschutzerklärung
+Ich behalte mir vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen der App-Funktionen datenschutzrechtlich abzubilden. Für Ihren erneuten Besuch in der App gilt dann die neue Datenschutzerklärung.
 
   *Stand: April 2026*
