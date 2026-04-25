@@ -1,6 +1,6 @@
 # Datenschutzerklärung und Impressum – EliteDrinking
 
-**Stand: 24. April 2026**
+**Stand: 25. April 2026**
 
 ---
 
@@ -8,23 +8,29 @@
 
 ## Angaben gemäß § 5 DDG sowie Verantwortlicher im Sinne des § 18 Abs. 2 MStV
 
-**Max Cerfontaine**
+Max Cerfontaine
 Kapellener Str. 32
 47661 Issum
+Deutschland
 
 ## Kontakt
 
-**Telefon:** +49 157 30633922
-**E-Mail:** [elitedrinkingapp@gmail.com](mailto:elitedrinkingapp@gmail.com)
+Telefon: +49 157 30633922
+E-Mail: [elitedrinkingapp@gmail.com](mailto:elitedrinkingapp@gmail.com)
+
+---
 
 ## EU-Streitschlichtung
 
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:
+
 https://ec.europa.eu/consumers/odr/
 
 Meine E-Mail-Adresse findest du oben im Impressum.
 
 Ich bin nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+---
 
 ## Haftungsausschluss (Disclaimer)
 
@@ -32,23 +38,28 @@ Ich bin nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer V
 
 Als Diensteanbieter bin ich gemäß § 7 Abs. 1 DDG für eigene Inhalte in dieser App nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG bin ich jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
 
-Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werde ich diese Inhalte umgehend entfernen.
+Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden entsprechender Rechtsverletzungen werde ich diese Inhalte umgehend entfernen.
+
+---
 
 ### Haftungsausschluss für Alkoholkonsum und gesundheitliche Schäden
 
-Diese App richtet sich **ausschließlich an volljährige Personen (18+)**.
+Diese App richtet sich ausschließlich an volljährige Personen (18+).
 
 Die Nutzung der App und die Teilnahme am Spiel erfolgen vollständig auf eigene Gefahr und Verantwortung.
 
-Der Entwickler (Max Cerfontaine) ruft ausdrücklich **nicht** zu übermäßigem, unkontrolliertem oder gefährlichem Alkoholkonsum (z. B. „Binge-Drinking“) auf.
+Der Entwickler (Max Cerfontaine) ruft ausdrücklich nicht zu übermäßigem, unkontrolliertem oder gefährlichem Alkoholkonsum (z. B. Binge Drinking) auf.
 
-Die Nutzung der App kann und darf ausdrücklich auch völlig ohne Alkohol (z. B. mit Wasser, Saft oder Softdrinks) erfolgen.
+Die Nutzung der App kann und darf ausdrücklich auch vollständig ohne Alkohol (z. B. mit Wasser, Saft oder Softdrinks) erfolgen.
 
 Es wird keine Haftung für gesundheitliche, materielle oder immaterielle Schäden übernommen, die durch die Nutzung dieser App, den Konsum von Alkohol oder das Verhalten der Spieler während oder nach dem Spiel entstehen.
 
-Jeder Spieler ist selbst dafür verantwortlich, seine Grenzen zu kennen und einzuhalten.
+Jeder Spieler ist selbst dafür verantwortlich, seine persönlichen Grenzen zu kennen und einzuhalten.
 
-**Bitte trinkt verantwortungsvoll. Don’t drink and drive.**
+Bitte trinkt verantwortungsvoll.
+Don’t drink and drive.
+
+---
 
 ### Haftung für Links
 
@@ -58,23 +69,31 @@ Für die Inhalte der verlinkten Seiten und Dienste ist stets der jeweilige Anbie
 
 Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Links umgehend entfernen.
 
+---
+
 ### Urheberrecht
 
-Die durch den Betreiber erstellten Inhalte, Werke und Grafiken in dieser App unterliegen dem deutschen Urheberrecht.
+Die durch den Betreiber erstellten Inhalte, Werke, Texte und Grafiken in dieser App unterliegen dem deutschen Urheberrecht.
 
-Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des Erstellers.
+Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen der schriftlichen Zustimmung des Erstellers.
 
 ---
 
 # 2. DATENSCHUTZERKLÄRUNG
 
+---
+
 ## 2.1 Grundlegendes
 
 Die Privatsphäre der Nutzer hat für mich höchste Priorität.
 
-Diese Datenschutzerklärung klärt Nutzer über die Art, den Umfang und die Zwecke der Erhebung und Verwendung personenbezogener Daten durch den verantwortlichen Anbieter (Max Cerfontaine, Kontaktdaten siehe Impressum) auf.
+Diese Datenschutzerklärung informiert über Art, Umfang und Zweck der Verarbeitung personenbezogener Daten innerhalb der App „EliteDrinking“ durch den verantwortlichen Anbieter (Max Cerfontaine, Kontaktdaten siehe Impressum).
 
-Die rechtlichen Grundlagen des Datenschutzes finden sich in der europäischen Datenschutz-Grundverordnung (DSGVO), dem Bundesdatenschutzgesetz (BDSG) sowie dem Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG).
+Die rechtlichen Grundlagen ergeben sich insbesondere aus:
+
+* der Datenschutz-Grundverordnung (DSGVO)
+* dem Bundesdatenschutzgesetz (BDSG)
+* dem Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz (TDDDG)
 
 ---
 
@@ -82,170 +101,276 @@ Die rechtlichen Grundlagen des Datenschutzes finden sich in der europäischen Da
 
 EliteDrinking funktioniert in ihren Kernfunktionen als Offline-App.
 
-Es gibt keinen Login oder Account-Zwang und es existieren keine eigenen Server, auf die deine Spieldaten hochgeladen werden.
+Es gibt keinen Login, keinen Account-Zwang und keine eigenen Server, auf denen Spielerdaten gespeichert werden.
 
-Ich selbst erhebe, verarbeite oder speichere keine personenbezogenen Daten.
+Ich selbst erhebe, verarbeite oder speichere grundsätzlich keine personenbezogenen Daten.
 
-Im Rahmen technischer Funktionen (z. B. der Update-Prüfung über die Google Play API) können jedoch kurzzeitig Daten durch Drittanbieter verarbeitet werden (siehe Punkt 2.3).
+Es werden keine Werbenetzwerke, kein Marketing-Tracking, keine personalisierte Werbung und keine Drittanbieter-Dienste zur Profilbildung eingesetzt.
 
-Es werden keine Analyse-Tools (Analytics), Tracking-SDKs, Werbe-Netzwerke oder sonstige Drittanbieter-Dienste verwendet, die dein Nutzerverhalten aufzeichnen.
+Im Rahmen technischer Funktionen können jedoch Drittanbieter kurzzeitig Daten verarbeiten (siehe folgende Punkte).
 
 ---
 
-## 2.3 Automatische Update-Prüfung (via Google API)
+## 2.3 Automatische Update-Prüfung (Google Play In-App Updates API)
 
 Um sicherzustellen, dass du immer die aktuellste und sicherste Version der App nutzt, führt EliteDrinking beim Start automatisch eine Überprüfung auf verfügbare Updates durch.
 
-Hierfür nutzt die App eine von Google bereitgestellte Schnittstelle (Google Play In-App Updates API).
+Hierfür verwendet die App die Google Play In-App Updates API.
 
-Bei dieser Prüfung wird eine direkte Verbindung zu den Servern von Google Play aufgebaut. Dabei werden aus technischen Gründen Daten wie deine IP-Adresse, Geräteinformationen und deine aktuell installierte App-Version an Google übertragen, damit geprüft werden kann, ob ein Update für dein Gerät vorliegt.
+Dabei wird eine direkte Verbindung zu den Servern von Google Play hergestellt. Technisch bedingt können dabei Daten wie:
+
+* IP-Adresse
+* Geräteinformationen
+* Betriebssysteminformationen
+* installierte App-Version
+
+an Google übertragen werden, um zu prüfen, ob ein Update verfügbar ist.
 
 ### Rechtsgrundlage
 
-Die Verarbeitung erfolgt auf Basis meines berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO) daran, die technische Sicherheit, Stabilität und Aktualität sowie die Gewährleistung einer funktionsfähigen und sicheren Bereitstellung der App zu gewährleisten.
+Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse), um die technische Sicherheit, Stabilität und Aktualität der App sicherzustellen.
 
-### Datenverarbeitung durch Dritte
+### Verantwortlicher Drittanbieter
 
-Ich (der Entwickler) habe keinen Zugriff auf diese Daten und speichere sie nicht.
+Google Ireland Limited
+Gordon House
+Barrow Street
+Dublin 4
+Irland
 
-Die Datenverarbeitung erfolgt ausschließlich durch Google (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland).
+Ich selbst habe keinen Zugriff auf diese Daten und speichere sie nicht.
 
-Weitere Informationen zum Umgang mit Nutzerdaten bei Google findest du in der Datenschutzerklärung von Google:
+Weitere Informationen:
 
 https://policies.google.com/privacy
 
 ---
 
-## 2.4 Lokale Datenspeicherung und Speicherdauer (TDDDG-Konformität)
+## 2.4 Firebase Crashlytics (anonyme Crash-Reports)
 
-Um die Funktionalität der App zu gewährleisten, speichert EliteDrinking bestimmte Daten ausschließlich lokal auf dem Endgerät des Nutzers.
+EliteDrinking verwendet standardmäßig Firebase Crashlytics zur technischen Fehleranalyse und Verbesserung der App-Stabilität.
 
-Diese Daten verlassen das Gerät zu keinem Zeitpunkt durch die App.
+Firebase Analytics wird hierbei ausschließlich als technische Grundlage für Firebase Crashlytics verwendet.
 
-Das Speichern dieser Daten ist zur Bereitstellung des vom Nutzer ausdrücklich gewünschten Dienstes zwingend erforderlich (§ 25 Abs. 2 Nr. 2 TDDDG).
+Es erfolgt kein Marketing-Tracking, kein Nutzerprofiling und keine personalisierte Werbung.
 
-### Gespeichert werden lokal:
+Crashlytics hilft dabei, technische Abstürze (App-Crashes) automatisch zu erkennen und zu analysieren, damit Fehler schneller behoben werden können.
 
-* Eingegebene Spielernamen und Geschlecht
-* Spielstatistiken (gespielte Spiele, verteilte Getränke, Siege)
-* Freigeschaltete Achievements
-* Vom Nutzer selbst erstellte Spielkarten
-* App-Einstellungen (gewählte Sprache, Trink-Limit, Onboarding-Status)
-* Status der Altersverifizierung (dient dazu, die Abfrage beim nächsten Start zu überspringen; erfolgt durch Selbstauskunft, kein KYC)
+Es werden ausschließlich technische Fehlerdaten verarbeitet, insbesondere:
+
+* Stack-Trace des Absturzes
+* Geräte-Modell
+* Gerätehersteller
+* Android-Version
+* App-Version
+* anonyme Installations-ID
+* Zeitstempel des Absturzes
+
+Es werden ausdrücklich **keine personenbezogenen Inhalte** wie:
+
+* Spielernamen
+* Spielkarten
+* Spielstatistiken
+* Achievements
+* Gruppenfotos
+* sonstige Spielinhalte
+
+an Firebase übermittelt.
 
 ### Speicherdauer
 
-Alle oben genannten Daten (Spielerprofile, Statistiken, Achievements etc.) bleiben lokal auf deinem Gerät gespeichert, bis du sie manuell löschst (z. B. über die Einstellungen deines Smartphones unter „Daten löschen“ oder direkt in der App) oder bis du die App vollständig deinstallierst.
+Crash-Reports werden für maximal 90 Tage gespeichert.
+
+### Speicherort
+
+Die Speicherung erfolgt auf Servern in der EU (Region eur3 / Frankfurt-Belgien).
+
+### Rechtsgrundlage
+
+Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse), um App-Fehler zu erkennen, technische Probleme zu beheben und die Stabilität sowie Sicherheit der Anwendung zu verbessern.
+
+### Opt-Out
+
+Du kannst die Übermittlung von Crash-Reports jederzeit deaktivieren:
+
+**MEHR → Rechtliches → „Crash-Reports senden“ → AUS**
+
+Die Deaktivierung wirkt sofort, ohne Neustart der App.
+
+### Drittlandübermittlung
+
+Eine regelmäßige Übermittlung in Drittländer (z. B. USA) erfolgt nicht, da der gewählte Speicherort innerhalb der EU liegt.
+
+Im Einzelfall, beispielsweise bei technischen Wartungen oder Support-Prozessen, kann eine Verarbeitung durch Google LLC (USA) erfolgen.
+
+Dies geschieht auf Grundlage des EU-US Data Privacy Framework sowie Standardvertragsklauseln gemäß Art. 46 DSGVO.
+
+### Verantwortlicher Drittanbieter
+
+Google Ireland Limited
+Gordon House
+Barrow Street
+Dublin 4
+Irland
+
+Weitere Informationen:
+
+https://firebase.google.com/support/privacy
+
+---
+
+## 2.5 Lokale Datenspeicherung und Speicherdauer (TDDDG-Konformität)
+
+Zur Bereitstellung der App speichert EliteDrinking bestimmte Daten ausschließlich lokal auf deinem Endgerät.
+
+Diese Daten verlassen dein Gerät zu keinem Zeitpunkt durch die App.
+
+Die Speicherung ist technisch erforderlich zur Bereitstellung des ausdrücklich gewünschten Dienstes gemäß § 25 Abs. 2 Nr. 2 TDDDG.
+
+Lokal gespeichert werden:
+
+* eingegebene Spielernamen und Geschlecht
+* Spielstatistiken (gespielte Spiele, Siege, verteilte Getränke)
+* freigeschaltete Achievements
+* selbst erstellte Spielkarten
+* App-Einstellungen (Sprache, Trinklimit, Onboarding)
+* Status der Altersverifizierung
+* Status der Crashlytics-Einstellung (AN/AUS)
+
+### Speicherdauer
+
+Diese Daten bleiben gespeichert, bis du sie selbst löschst, zum Beispiel durch:
+
+* den Button „Alle Daten löschen“ in der App
+* das Löschen einzelner Inhalte
+* Android-Systemeinstellungen → Apps → EliteDrinking → Speicher → Daten löschen
+* vollständige Deinstallation der App
 
 Es findet keine serverseitige Speicherung statt.
 
 ---
 
-## 2.5 Zugriff auf Gerätefunktionen (Berechtigungen)
+## 2.6 Zugriff auf Gerätefunktionen (Berechtigungen)
 
-Die App fragt nach bestimmten Systemberechtigungen.
-
-Die Nutzung dieser Funktionen erfolgt freiwillig durch den Nutzer und ist lediglich für bestimmte In-App-Funktionen erforderlich.
+Die App nutzt bestimmte Systemberechtigungen ausschließlich für gewünschte Funktionen.
 
 ### Kamera
 
-Wird (optional) benötigt, um QR-Codes zum Importieren lokaler Kartendecks zu scannen oder um ein Gruppenfoto als Spielerinnerung aufzunehmen.
+Optional erforderlich zum:
 
-Alle Bilder und Kamera-Daten werden nur lokal im Speicher des Geräts verarbeitet und verbleiben dort.
+* Scannen von QR-Codes für Kartendecks
+* Aufnehmen eines Gruppenfotos als Spielerinnerung
 
-Eine Übertragung ins Internet durch die App findet nicht statt.
+Alle Bilder verbleiben ausschließlich lokal auf dem Gerät.
+
+Eine Internet-Übertragung durch EliteDrinking erfolgt nicht.
+
+---
 
 ### Vibration (Haptisches Feedback)
 
-Die Berechtigung VIBRATE wird ausschließlich für das Nutzererlebnis bei Interaktionen im Spiel genutzt.
+Die Berechtigung VIBRATE wird ausschließlich für haptisches Feedback innerhalb des Spiels verwendet.
 
 Es werden hierbei keine Daten erhoben.
 
+---
+
 ### Teilen-Funktion (Share Intent)
 
-Wenn Nutzer Spielergebnisse oder Gruppenfotos teilen möchten, öffnet die App lediglich den nativen „Teilen“-Dialog des Betriebssystems.
+Beim Teilen von Spielergebnissen oder Gruppenfotos öffnet die App ausschließlich den nativen Teilen-Dialog des Betriebssystems.
 
-Der Nutzer entscheidet selbst, an welche Dritt-App (z. B. Messenger) die Daten lokal übergeben werden.
+Der Nutzer entscheidet selbst, an welche Dritt-App Daten übergeben werden.
 
-EliteDrinking sendet die Daten nicht selbst über das Internet.
-
----
-
-## 2.6 Sound-Effekte
-
-Alle Sound-Effekte sind lokal in den Installationsdateien der App hinterlegt.
-
-Es werden keine Audiodaten aus dem Internet nachgeladen.
-
-Die App greift zu keinem Zeitpunkt auf das Mikrofon des Geräts zu.
+EliteDrinking versendet diese Daten nicht selbst.
 
 ---
 
-## 2.7 Externe Links (Spotify)
+## 2.7 Sound-Effekte
 
-Bestimmte Minispiele (z. B. Song Roulette) bieten die Möglichkeit, über einen Button die App Spotify zu öffnen, um einen Song abzuspielen.
+Alle Sound-Effekte sind lokal in den Installationsdateien der App enthalten.
 
-Dabei wird lediglich ein Suchlink über einen Android Intent geöffnet.
+Es werden keine Audiodaten aus dem Internet geladen.
 
-Beim Öffnen des Links wird eine direkte Verbindung zu den Servern von Spotify hergestellt.
-
-EliteDrinking überträgt dabei keine Nutzerdaten an Spotify.
-
-Es wird kein Spotify-SDK, keine Spotify-API und kein Spotify-Login verwendet.
-
-Die Nutzung von Spotify unterliegt den Datenschutzbestimmungen von Spotify (Spotify AB, Stockholm, Schweden).
+Die App greift nicht auf das Mikrofon des Geräts zu.
 
 ---
 
-## 2.8 Datenverarbeitung durch App Stores (Apple / Google)
+## 2.8 Externe Links (Spotify)
 
-Bitte beachte, dass beim Download der App aus dem Google Play Store oder dem Apple App Store Daten durch den jeweiligen Store-Betreiber verarbeitet werden.
+Einige Minispiele (z. B. Song Roulette) ermöglichen das Öffnen von Spotify zur Songwiedergabe.
 
-Darauf hat der Entwickler keinen Einfluss.
+Hierbei wird lediglich ein Suchlink per Android Intent geöffnet.
 
-Der jeweilige Store-Betreiber erhebt unter anderem Daten zum Download, zur IP-Adresse und zum verwendeten Gerät.
+Beim Öffnen wird eine direkte Verbindung zu Spotify hergestellt.
 
-Verantwortlich hierfür ist ausschließlich der jeweilige Store-Betreiber (Google Ireland Limited bzw. Apple Distribution International).
+EliteDrinking verwendet:
+
+* kein Spotify-SDK
+* keine Spotify-API
+* keinen Spotify-Login
+
+Es werden keine Nutzerdaten aktiv an Spotify übertragen.
+
+Die Nutzung unterliegt den Datenschutzbestimmungen von Spotify AB, Stockholm, Schweden.
 
 ---
 
-## 2.9 Deine Rechte als Nutzer
+## 2.9 Datenverarbeitung durch App Stores
 
-Da ich (der Entwickler) keine personenbezogenen Daten von dir speichere oder besitze, entfallen die üblichen Anfragen auf Auskunft, Löschung oder Übertragbarkeit bei mir (da ich nichts beauskunften oder löschen kann).
+Beim Download der App über App Stores (z. B. Google Play Store) werden Daten durch den jeweiligen Store-Betreiber verarbeitet.
 
-Du hast jedoch die volle Kontrolle über deine Daten auf deinem Gerät.
+Hierzu zählen unter anderem:
 
-Du kannst jederzeit alle gespeicherten Daten unwiderruflich vernichten durch:
+* IP-Adresse
+* Geräteinformationen
+* Download-Informationen
 
-* Den Button „Alle Daten löschen“ in den Datenschutz-Einstellungen der App
-* Das Löschen einzelner Spieler oder Achievements in den entsprechenden Menüs
-* Die Löschung der App-Daten über die Android-Systemeinstellungen
-  (Einstellungen → Apps → EliteDrinking → Speicher → Daten löschen)
-* Die vollständige Deinstallation der App
+Darauf habe ich keinen Einfluss.
 
-### Beschwerderecht bei einer Aufsichtsbehörde (Art. 77 DSGVO)
+Verantwortlich ist ausschließlich der jeweilige Store-Betreiber.
 
-Zusätzlich hast du das Recht, dich bei einer zuständigen Aufsichtsbehörde für den Datenschutz zu beschweren, falls du der Ansicht bist, dass die Verarbeitung deiner Daten gegen geltendes Recht verstößt.
+---
 
-Die für meinen Sitz (Nordrhein-Westfalen) zuständige Behörde ist:
+## 2.10 Deine Rechte als Nutzer
 
-**Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen**
+Da ich selbst keine personenbezogenen Daten speichere oder verarbeite, entfallen klassische Anfragen auf Auskunft, Berichtigung oder Löschung gegenüber mir weitgehend.
+
+Du hast jedoch jederzeit die volle Kontrolle über deine lokal gespeicherten Daten.
+
+Du kannst sämtliche Daten unwiderruflich löschen durch:
+
+* den Button „Alle Daten löschen“ in der App
+* das Löschen einzelner Inhalte
+* Android-Systemeinstellungen
+* vollständige Deinstallation
+
+---
+
+## Beschwerderecht bei einer Aufsichtsbehörde (Art. 77 DSGVO)
+
+Du hast das Recht, dich bei einer Datenschutzaufsichtsbehörde zu beschweren.
+
+Zuständig für Nordrhein-Westfalen:
+
+Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen
 Kavalleriestr. 2–4
 40213 Düsseldorf
 
-**E-Mail:** [poststelle@ldi.nrw.de](mailto:poststelle@ldi.nrw.de)
-**Web:** [www.ldi.nrw.de](http://www.ldi.nrw.de)
+E-Mail: [poststelle@ldi.nrw.de](mailto:poststelle@ldi.nrw.de)
+Web: [www.ldi.nrw.de](http://www.ldi.nrw.de)
 
 ---
 
-## 2.10 Änderungen dieser Datenschutzerklärung
+## 2.11 Änderungen dieser Datenschutzerklärung
 
-Ich behalte mir vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen der App-Funktionen datenschutzrechtlich abzubilden.
+Ich behalte mir vor, diese Datenschutzerklärung anzupassen, um sie an aktuelle gesetzliche Anforderungen oder Änderungen der App-Funktionen anzupassen.
 
-Für deinen erneuten Besuch in der App gilt dann die neue Datenschutzerklärung.
+Für deinen nächsten App-Besuch gilt dann die jeweils aktuelle Version.
 
 ---
 
-## 2.11 Geltungsbereich
+## 2.12 Geltungsbereich
 
-Diese Datenschutzerklärung gilt ausschließlich für die App **„EliteDrinking“**.
+Diese Datenschutzerklärung gilt ausschließlich für die mobile App „EliteDrinking“.
+
+---
